@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Gautami 👋
 
-<!--
-**Gau-tami/Gau-tami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc IT Final Year Student  
+💻 Python Developer  
+📱 Flutter & Firebase Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Project
+
+### DiscoverEase (Travel Planning App)
+- Plan trips before traveling
+- Includes flight and booking UI (demo-based)
+- Built using Flutter & Firebase
+- Currently improving with real integrations
+
+---
+
+## 🛠️ Skills
+
+- Python  
+- Dart (Flutter)  
+- Firebase  
+- MySQL  
+- MongoDB  
+- C, C++, Java (basic)  
+
+---
+
+## 📫 Contact
+
+- Email: gautami.poojari.07@gmail.com
