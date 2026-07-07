@@ -1,6 +1,6 @@
 # Hi, I'm Gautami 👋
 
-🎓 BSc IT Final Year Student  
+🎓 BSc IT Graduate
 💻 Python Developer  
 📱 Flutter & Firebase Developer  
 
